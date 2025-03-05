@@ -1,3 +1,4 @@
+} finally {
 String userName = props.getProperty("db.user");
 BufferedWriter out = null;
 Connection con;

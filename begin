@@ -1,3 +1,4 @@
+out.close();
 // do the thing you do
 String userName = props.getProperty("db.user");
 con=DriverManager.getConnection(url, userName, password);

@@ -1,3 +1,4 @@
+ps.close();
 test.fetch();
 // error processing code
 out.close();

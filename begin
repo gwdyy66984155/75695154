@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 ps.close();
 test.fetch();
 // error processing code
